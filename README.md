@@ -1,5 +1,16 @@
 # HiRou-Android
- <br/>
+
+### You can see how it works!
+<br/>
+
+<a href="https://www.youtube.com/watch?v=0itAvftwnco">
+        <img 
+            src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white&link=https://www.youtube.com/watch?v=0itAvftwnco"
+            style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+    </a>
+
+<br/>
+<br/>
 
 ### 📆 Project Period
 
