@@ -66,3 +66,6 @@
 
 <br>
 <br>
+
+## Result of the Contest
+- CAPSTONE DESIGN for 4th grade 1st semester - a silver award 🥈 (Second place)
